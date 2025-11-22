@@ -14,13 +14,13 @@ This project builds a complete workflow for training + inference, including:
 
 📁 Project Structure:
 
-|-- main.py               # Training + inference script
-|-- housing.csv           # California Housing dataset
-|-- input.csv             # Example input data for inference
-|-- output.csv            # Model predictions output
-|-- model.pkl             # Saved trained model (auto-generated)
-|-- pipeline.pkl          # Saved preprocessing pipeline (auto-generated)
-|-- requirements.txt      # Project dependencies
+-- main.py               # Training + inference script
+-- housing.csv           # California Housing dataset
+-- input.csv             # Example input data for inference
+-- output.csv            # Model predictions output
+-- model.pkl             # Saved trained model (auto-generated)
+-- pipeline.pkl          # Saved preprocessing pipeline (auto-generated)
+-- requirements.txt      # Project dependencies
 
 ⚙️ How to Use:
 - Install Dependencies : pip install -r requirements.txt
