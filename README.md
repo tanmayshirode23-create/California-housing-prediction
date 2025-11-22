@@ -13,6 +13,7 @@ This project builds a complete workflow for training + inference, including:
 - Generating predictions for new datasets and exporting results to CSV.
 
 📁 Project Structure:
+
 |-- main.py               # Training + inference script
 |-- housing.csv           # California Housing dataset
 |-- input.csv             # Example input data for inference
